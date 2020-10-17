@@ -10,15 +10,7 @@
       "name": "CryptalDash",
       "symbol": "CRD",
       "decimals": 18
-    },
-
-    {
-      "chainId": 1,
-      "address": "0x41c028a4c1f461ebfc3af91619b240004ebad216",
-      "name": "TacoToken",
-      "symbol": "TACO",
-      "decimals": 18
     }
   ],
-  "version": { "major": 0, "minor": 1, "patch": 0 }
+  "version": { "major": 0, "minor": 0, "patch": 0 }
 }
