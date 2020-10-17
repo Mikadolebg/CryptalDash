@@ -15,7 +15,7 @@
     {
       "chainId": 1,
       "address": "0x41c028a4c1f461ebfc3af91619b240004ebad216",
-      "name": "TacoToken ",
+      "name": "TacoToken",
       "symbol": "TACO",
       "decimals": 18
     }
